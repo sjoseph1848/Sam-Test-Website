@@ -4,6 +4,9 @@
     background-size: 100%;
     
 }
+a:visited{
+    color:white;
+  }
 
 
 container {
@@ -43,4 +46,7 @@ container {
 .about_us{
     text-align: center;
   
+}
+.contact_us{
+    text-align: center;
 }
